@@ -1,7 +1,7 @@
 # This is for github project for parsing interface #
 # http://amyleew.github.io/front-end-dev-lab/ #
 
-baseurl: /front-end-dev-lab/
+baseurl: /front-end-dev-lab
 markdown: kramdown
 collections:
 projects:
