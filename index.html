@@ -15,7 +15,7 @@ title: Portfolio Page
   {% if post.content contains 'Pitch' %}
 
  
-    <a href="/front-end-dev-lab/{{ post.url }}"><h3>{{ post.title }}</h3></a>
+    <a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
     <p>categories: <em>{{ post.tags }}</em></p>
     {{ content }}
     <img src="{{ post.image1 }}" />
