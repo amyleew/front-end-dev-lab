@@ -1,14 +1,16 @@
 ---
-title: "ReStacks"
-project: restacks
+title: "LightSweater"
+project: lightsweather
 layout: project
 tags:
-- 3d transform, horizontal scroll, login
-image1: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_1.jpg
-image2: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_2.jpg
-image3: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_3.jpg
-image4: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_4.jpg
-image5: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_5.jpg
+- APIs, hurl.it, Mapbox, Leaflet, Wunderground
+image1: img/project2/map.makers.weather.png
+image2: img/project2/map.fog.png
+image3: img/project2/css.slider1.png
+image4: img/project2/css.slider2.png
+image5: img/project2/s1.png
+image6: img/project2/s2.png
+image7: img/project2/s3.png
 type: project
 ---
 
