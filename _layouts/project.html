@@ -1,0 +1,26 @@
+---
+layout: default
+title: project
+---
+ 
+<h2 class="content">{{ post.title }}</h2>
+
+ 
+{{ content }}
+
+<p>categories: <div class"bioRead">{{ page.tags }}</div></p>
+
+	<p><img src="{{ page.image1 }}" /></p>
+    <p><img src="{{ page.image2 }}" /></p>
+    <p><img src="{{ page.image3 }}" /></p>
+    <p><img src="{{ page.image4 }}" /></p>
+    <p><img src="{{ page.image5 }}" /></p>
+    <p><img src="{{ page.image6 }}" /></p>   
+    <p><img src="{{ page.image7 }}" /></p>
+
+{% if page.previous %}
+<a rel="prev" href="{{ page.previous.url }}">&larr;  {{ page.next.title }}</a>
+{% endif %}
+{% if page.next %} 
+<a rel="next" href="{{ page.next.url }}">{{ page.next.title }}  &rarr;</a>
+{% endif %}

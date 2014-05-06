@@ -1,0 +1,17 @@
+---
+layout: default
+title: portfolio
+---
+ 
+<h2 class="content">{{page.title}}</h2>
+ 
+<img src="{{ page.image }}" />
+ 
+{{ content }}
+
+{% if page.previous %}
+<a rel="prev" href="{{ page.previous.url }}">&larr;  {{ page.next.title }}</a>
+{% endif %}
+{% if page.next %} 
+<a rel="next" href="{{ page.next.url }}">{{ page.next.title }}  &rarr;</a>
+{% endif %}

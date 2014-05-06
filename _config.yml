@@ -1,0 +1,8 @@
+# This is for github project for parsing interface #
+# http://amyleew.github.io/jekyll-/ #
+
+
+markdown: kramdown
+collections:
+projects:
+output: true

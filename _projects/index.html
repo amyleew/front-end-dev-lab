@@ -1,0 +1,27 @@
+---
+layout: default
+title: projects
+---
+ 
+<section class="content">
+  <h2>Portfolio Project :: {{ project.title }}</h2>
+ 
+  <p>See This Project!!!</p>
+</section>
+ 
+<ul class="entries">
+  {% for post in project.posts %}
+ 
+  <li>
+      <h3>{{ project.title }}</h3>
+
+      <!-- run through a #and link loop-->
+      <p>{{ project.tags }}</p>
+      <p>{{ content }}</p>
+
+        <!-- put into image gallery -->
+      <img src="{{ post.image }}" />
+  </li>
+ 
+  {% endfor %}
+</ul>

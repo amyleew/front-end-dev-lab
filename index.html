@@ -1,0 +1,24 @@
+---
+layout: default
+title: Portfolio Page
+---
+
+<section class="content">
+ 
+  <p>Advanced Web Design Spring 2014. Featuring Pitch, Process and Case Study pages for the Enoch Pratt Library Re:Stacks project and the API collaboration with Emma, Light Sweather. And a collection of my Top 5 Web Tools, Frameworks, and Tricks.</p>
+
+</section>
+
+
+{% for post in site.posts %}
+  {% if post.type == 'project' %}
+  {% if post.content contains 'Pitch' %}
+
+ 
+    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+    <p>categories: <em>{{ post.tags }}</em></p>
+    {{ content }}
+    <img src="{{ post.image1 }}" />
+    {% endif %}
+ {% endif %}
+{% endfor %}
