@@ -6,6 +6,10 @@ body {
   margin: 0;
 }
 
+.sidebarColor {
+    background: #ececec;
+}
+
 .project {
   max-width: 100%;
 }
