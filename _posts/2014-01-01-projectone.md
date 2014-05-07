@@ -9,11 +9,11 @@ image2: ../../../img/project1/amyleewalton_stacks1_Page_02.jpg
 image3: ../../../img/project1/amyleewalton_stacks1_Page_03.jpg
 image4: ../../../img/project1/amyleewalton_stacks1_Page_04.jpg
 image5: ../../../img/project1/amyleewalton_stacks1_Page_05.jpg
-image6: ../../../img/project1/amyleewalton_stacks1_Page_06.jpg
-image7: ../../../img/project1/amyleewalton_stacks1_Page_07.jpg
-image8: ../../../img/project1/amyleewalton_stacks1_Page_08.jpg
-image9: ../../../img/project1/amyleewalton_stacks1_Page_09.jpg
-image10: ../../../img/project1/amyleewalton_stacks1_Page_10.jpg
+image6: ../../../img/project1/amyleewalton_stacks1_Page_12.jpg
+image7: ../../../img/project1/amyleewalton_stacks1_Page_14.jpg
+image8: ../../../img/project1/amyleewalton_stacks1_Page_15.jpg
+image9: ../../../img/project1/amyleewalton_stacks1_Page_16.jpg
+image10: ../../../img/project1/amyleewalton_stacks1_Page_17.jpg
 type: project
 ---
 
