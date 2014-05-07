@@ -5,15 +5,15 @@ layout: project
 tags:
 - 3d transform, horizontal scroll, login
 image1: ../../../img/project1/amyleewalton_stacks1_Page_01.jpg
-image2: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_2.jpg
-image3: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_3.jpg
-image4: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_4.jpg
-image5: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_5.jpg
-image6: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_1.jpg
-image7: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_2.jpg
-image8: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_3.jpg
-image9: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_4.jpg
-image10: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_5.jpg
+image2: ../../../img/project1/amyleewalton_stacks1_Page_02.jpg
+image3: ../../../img/project1/amyleewalton_stacks1_Page_03.jpg
+image4: ../../../img/project1/amyleewalton_stacks1_Page_04.jpg
+image5: ../../../img/project1/amyleewalton_stacks1_Page_05.jpg
+image6: ../../../img/project1/amyleewalton_stacks1_Page_06.jpg
+image7: ../../../img/project1/amyleewalton_stacks1_Page_07.jpg
+image8: ../../../img/project1/amyleewalton_stacks1_Page_08.jpg
+image9: ../../../img/project1/amyleewalton_stacks1_Page_09.jpg
+image10: ../../../img/project1/amyleewalton_stacks1_Page_10.jpg
 type: project
 ---
 
