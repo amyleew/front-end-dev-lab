@@ -14,6 +14,10 @@ image7: ../../../img/project1/amyleewalton_stacks1_Page_14.jpg
 image8: ../../../img/project1/amyleewalton_stacks1_Page_15.jpg
 image9: ../../../img/project1/amyleewalton_stacks1_Page_16.jpg
 image10: ../../../img/project1/amyleewalton_stacks1_Page_17.jpg
+image7: ../../../img/project1/amyleewalton_stacks1_Page_24.jpg
+image8: ../../../img/project1/amyleewalton_stacks1_Page_22.jpg
+image9: ../../../img/project1/amyleewalton_stacks1_Page_29.jpg
+image10: ../../../img/project1/amyleewalton_stacks1_Page_27.jpg
 type: project
 ---
 
