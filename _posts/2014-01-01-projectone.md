@@ -4,7 +4,7 @@ project: restacks
 layout: project
 tags:
 - 3d transform, horizontal scroll, login
-image1: ../img/project1/amyleewalton_stacks1_Page_01.jpg
+image1: ../../../img/project1/amyleewalton_stacks1_Page_01.jpg
 image2: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_2.jpg
 image3: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_3.jpg
 image4: http://amyleew.github.io/advancedweb14/images/styleTiles/AmyLeeWalton_StyleTiles_Page_4.jpg
